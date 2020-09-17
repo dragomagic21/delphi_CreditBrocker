@@ -1,0 +1,1 @@
+usr,typ,typ_e,cost,fv,tc,tc_st,tc_am,tc_el,prim,mn

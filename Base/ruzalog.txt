@@ -1,0 +1,1 @@
+usr,ta,tb,te,td,tel,tel_e,suma,tc,prim,mn
